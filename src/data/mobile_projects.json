@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Garage Booking App",
+    "imageSrc": "projects/Garage.jpeg",
+    "description": "Developed an Android app to simplify finding and booking parking spaces. Integrated Firebase for real-time data sync and secure user authentication, providing a seamless user experience in busy areas.",
+    "skills": ["Android (Java)", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/GarageApp"
+  },
+  {
+    "title": "BMSS App",
+    "imageSrc": "projects/BMSS.jpeg",
+    "description": "An Android application designed to help users manage their finances effectively by setting savings goals, creating budgets, and tracking expenses.BMSS empowers users to take control of their financial health and work towards their savings objectives.",
+    "skills": ["Android (Java)", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/BMSSApplication"
+  },
+  {
+    "title": "Daily Pills App",
+    "imageSrc": "projects/DailyPills.jpeg",
+    "description": "An Android app that alerts the elderly about medication schedules with timely reminders and tracking. It features a user-friendly interface for managing medication appointments and adherence.",
+    "skills": ["Android (Java)", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/DailyPills_App"
+  },
+  {
+    "title": "Tawriq App",
+    "imageSrc": "projects/Tawriq.jpeg",
+    "description": "A mobile application for displaying and managing a collection of books, featuring a user-friendly interface for browsing and accessing book details.",
+    "skills": ["Android", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/TawriqApp"
+  },
+  {
+    "title": "Saudi Expert",
+    "imageSrc": "projects/SaudiExpert.jpeg",
+    "description": "An Android app designed to facilitate booking tourist trips and experiences in Saudi Arabia. It provides a seamless platform for discovering, planning, and booking exciting activities across the country.",
+    "skills": ["Android (Java)", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/SaudiExpert"
+  },
+  {
+    "title": "Smart Infant Incubator",
+    "imageSrc": "projects/SmartInfantIncubator.jpeg",
+    "description": "A mobile application for controlling infant incubators and displaying sensor values, ensuring accurate monitoring and adjustment of incubator settings.",
+    "skills": ["Android", "IoT Integration"],
+    "source": ""
+  },
+  {
+    "title": "Your Pharmacy",
+    "imageSrc": "projects/YourPharmacy.jpeg",
+    "description": "A mobile application for ordering medicines, providing a convenient platform for users to browse, order, and manage their medication needs.",
+    "skills": ["Android", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/YourPharmacy"
+  },
+  {
+    "title": "Plant Disease Detection App",
+    "imageSrc": "projects/Plant.jpeg",
+    "description": "An innovative Android application that helps farmers and gardeners identify plant diseases quickly and accurately. It utilizes machine learning with TensorFlow Lite for on-device inference and Firebase for cloud storage and authentication.",
+    "skills": ["Android (Java)", "TensorFlow Lite", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/PlantDiseaseDetectionApp"
+  },
+  {
+    "title": "MyEducation App",
+    "imageSrc": "projects/MyEducation.jpeg",
+    "description": "A mobile application for teachers to administer exams, view results, and manage lessons. It streamlines the process of evaluating student performance and organizing coursework.",
+    "skills": ["Android", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/MyEducationApp"
+  },
+  {
+    "title": "Hand Rehabilitation App ( My Graduation Project )",
+    "imageSrc": "projects/HandRehabilitation.jpeg",
+    "description": "A mobile application for hand diagnosis using computer vision and machine learning. It assists doctors in analyzing hand poses and calculating angles between fingers for accurate diagnostic insights.",
+    "skills": ["Android", "Machine Learning", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/HandPoseEstimation"
+  }
+]

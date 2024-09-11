@@ -1,0 +1,112 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/c_plas.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "Java Script",
+    "imageSrc": "skills/js.png",
+    "tag": "programming_languages"
+  },
+
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png",
+    "tag": "programming_languages"
+  },
+  {
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.png",
+    "tag": "programming_languages"
+  },
+
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "tag": "front_end"
+  },
+  {
+    "title": "Android",
+    "imageSrc": "skills/android.png",
+    "tag": "front_end"
+  },
+
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgre.png",
+    "tag": "database"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png",
+    "tag": "database"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png",
+    "tag": "database"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png",
+    "tag": "database"
+  },
+
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png",
+    "tag": "back_end"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png",
+    "tag": "back_end"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png",
+    "tag": "back_end"
+  },
+  {
+    "title": "Odoo",
+    "imageSrc": "skills/odoo.png",
+    "tag": "back_end"
+  },
+
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png",
+    "tag": "technologies"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png",
+    "tag": "technologies"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png",
+    "tag": "technologies"
+  }
+]

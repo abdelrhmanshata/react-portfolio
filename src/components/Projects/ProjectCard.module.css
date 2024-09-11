@@ -1,0 +1,43 @@
+@import "../../vars.css";
+
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  list-style: none;
+  flex-grow: 1; /* Allow skills section to take up available space */
+  align-items: center; /* Center skills vertically */
+}
+
+.skill {
+  font-size: 18px;
+  font-weight: 300;
+  border-radius: 100px;
+  color: var(--color-text);
+  background: var(--color-dark);
+  padding: 2px 12px;
+}
+
+.links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: auto; /* Push links to the bottom */
+  flex-shrink: 0; /* Prevent the links from shrinking */
+}
+
+.link {
+  margin: 16px;
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 24px;
+  font-weight: 500;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 16px;
+}

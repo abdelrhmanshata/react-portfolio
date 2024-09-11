@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Natours API",
+    "imageSrc": "projects/NatoursAPIs.png",
+    "description": "Developed a travel management API using Node.js and Express, featuring secure JWT authentication and CRUD operations for tour packages.",
+    "skills": ["Node.js", "Express", "MongoDB", "JWT", "Postman"],
+    "source": "https://github.com/abdelrhmanshata/Natours-APIs"
+  },
+  {
+    "title": "Farm Management System",
+    "imageSrc": "projects/FarmManagementSystem.png",
+    "description": "Built a comprehensive farm management API using Django REST Framework, incorporating JWT authentication for secure access and detailed management of farms, crops, and animals.",
+    "skills": ["Django REST", "JWT", "Postman"],
+    "source": "https://github.com/abdelrhmanshata/Farm-Management-System"
+  },
+  {
+    "title": "OM Hospital Odoo",
+    "imageSrc": "projects/odoo.png",
+    "description": "Customized and developed modules for Odoo ERP tailored to hospital management, enhancing patient care and operational efficiency.",
+    "skills": ["Odoo", "Python", "XML", "PostgreSQL"],
+    "source": "https://github.com/abdelrhmanshata/om-Hospital-Odoo-Project/tree/main"
+  },
+  {
+    "title": "Managing Courses APIs",
+    "imageSrc": "projects/ManagingCourses.png",
+    "description": "Developed a backend system with features for managing courses, user profiles, and file uploads. Implemented JWT authentication for secure access and integrated MongoDB for data storage.",
+    "skills": ["Node.js", "Express", "MongoDB", "JWT", "Postman"],
+    "source": "https://github.com/abdelrhmanshata/Node_Js"
+  },
+  {
+    "title": "EduNexus E-learning",
+    "imageSrc": "projects/EduNexus.png",
+    "description": "Developed an innovative e-learning website designed to connect teachers and students. Built with React.js for the frontend, Django for the backend, and PostgreSQL for the database, EduNexus provides a seamless learning experience with features tailored to educational needs.",
+    "skills": ["React.js", "Django", "PostgreSQL"],
+    "source": "https://github.com/abdelrhmanshata/Final_Project_ITI"
+  },
+  {
+    "title": "Crowd Funding",
+    "imageSrc": "projects/CrowdFunding.png",
+    "description": "developed a Django crowdfunding application to manage project funding and user contributions. Features include project creation, funding management, and secure user authentication.",
+    "skills": ["Django", "PostgreSQL", "HTML", "CSS", "BootStrap"],
+    "source": "https://github.com/abdelrhmanshata/Crowd_Funding_App"
+  },
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/ECommerce.jpeg",
+    "description": "Developed a dynamic web application using React.js, leveraging components, React Hooks, and routing for an interactive user experience. Integrated Redux Toolkit and Context for state management and handled HTTP requests for data interaction.",
+    "skills": ["React.js", "Redux", "Axios", "Components", "Hooks", "Routing"],
+    "source": "https://github.com/abdelrhmanshata/Project_React"
+  }
+]
