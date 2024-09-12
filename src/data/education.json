@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Diploma In Full Stack Web",
+    "organisation": "Information Technology Institute",
+    "startDate": "Nov, 2023",
+    "endDate": "March, 2024",
+    "experiences": [
+      "Full-stack developer proficient in Python",
+      "I have proven ability to develop and deploy scalable web applications.",
+      "Strong problem-solving and collaborative skills"
+    ],
+    "imageSrc": "education/iti.png"
+  },
+  {
+    "role": "Bachelor's Degree, Faculty of Computer and information",
+    "organisation": "Zagazig University",
+    "startDate": "Sept, 2017",
+    "endDate": "July, 2021",
+    "experiences": [
+      "Major: Computer Science",
+      "Grade: Very good with Honor",
+      "Graduation Project Grade: Excellent",
+      "Achievement: First place among all graduation projects"
+    ],
+    "imageSrc": "education/zagazig.png"
+  }
+]
