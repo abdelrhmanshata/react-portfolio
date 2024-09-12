@@ -1,8 +1,6 @@
-# react-portfolio
- 
-# [AbdElrhman Mohamed Shata] - Portfolio
+# AbdElrhman Mohamed Shata - Portfolio
 
-Welcome to my portfolio! This repository showcases my work as a Full-Stack Developer, highlighting my skills, projects, and experience.
+Welcome to my portfolio! I am a versatile software developer passionate about building reliable and easy-to-use solutions. This repository highlights my skills, projects, and experience in both front-end and back-end development.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -13,54 +11,71 @@ Welcome to my portfolio! This repository showcases my work as a Full-Stack Devel
 - [Contact](#contact)
 
 ## About Me
-I am a passionate Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I thrive in creating robust, user-friendly web applications and am always eager to learn and adopt new technologies. My goal is to deliver high-quality software solutions that meet user needs and business objectives.
+I am a Software Developer with a solid background in both front-end and back-end development. I have a strong desire to learn and use new technologies, and I am dedicated to providing excellent solutions while fostering teamwork to spur innovation. My ability to adapt and succeed in fast-paced environments has been demonstrated through my freelance work and various projects.
 
 ## Skills
-### Front-End
-- HTML, CSS, JavaScript
-- React.js, Redux, Context API
-- Bootstrap, Tailwind CSS
+### Programming Languages
+- C++
+- Java
+- Python
+- JavaScript
+- HTML5, CSS3, jQuery, Bootstrap
 
-### Back-End
-- Node.js, Express.js
-- Django, Flask
-- REST APIs
+### Front-End Development
+- React.js
+- Mobile Development (Android, React Native)
+
+### Back-End Development
+- Django, Flask, Odoo
+- Node.js
 
 ### Databases
-- MongoDB, PostgreSQL, MySQL
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB, Firebase)
 
 ### Tools & Technologies
-- Git, GitHub
+- Git Version Control
 - Docker
-- Firebase
+- System Administration
+- Bash Shell Scripting
+- Architecture Patterns (MVC, MVT)
 
 ## Projects
-### 1. [Natours APIs](https://github.com/abdelrhman/Natours-APIs)
-A Node.js API for managing tours. Includes features like user authentication, tour booking, and advanced filtering. Built with Express.js and MongoDB.
+### 1. [Natours API](https://github.com/abdelrhmanshata/Natours-APIs)
+Developed a travel management API using Node.js and Express, featuring secure JWT authentication and CRUD operations for tour packages.  
+**Technologies:** Node.js, Express, MongoDB, JWT, Postman
 
-### 2. [EduNexus](https://github.com/yourusername/EduNexus)
-An e-learning platform that connects students and teachers. Built using React.js for the front-end, Django for the back-end, and PostgreSQL as the database.
+### 2. [Farm Management System](https://github.com/abdelrhmanshata/Farm-Management-System)
+Built a comprehensive farm management API using Django REST Framework, incorporating JWT authentication for secure access and detailed management of farms, crops, and animals.  
+**Technologies:** Django REST Framework, JWT, Postman
 
-### 3. [Job-Portal-App](https://github.com/yourusername/Job-Portal-App)
-A fully functional job portal web application built using Node.js, Express.js, and MongoDB. Includes features such as registration for job seekers and employers, job postings, and searching and filtering job listings.
+### 3. [OM Hospital Odoo](https://github.com/abdelrhmanshata/om-Hospital-Odoo-Project/tree/main)
+Customized and developed modules for Odoo ERP tailored to hospital management, enhancing patient care and operational efficiency.  
+**Technologies:** Odoo, Python, XML, PostgreSQL
 
-### 4. [GarageApp](https://github.com/yourusername/GarageApp)
-An Android application for booking parking spaces, built with Java and Firebase.
+### 4. [EduNexus E-learning](https://github.com/abdelrhmanshata/Final_Project_ITI)
+Developed an innovative e-learning website designed to connect teachers and students. Built with React.js for the frontend, Django for the backend, and PostgreSQL for the database.  
+**Technologies:** React.js, Django, PostgreSQL
 
-_For a full list of my projects, please visit my [GitHub](https://github.com/yourusername)._
+### 5. [Garage Booking Application](https://github.com/abdelrhmanshata/GarageApp)
+Developed an Android app to simplify finding and booking parking spaces. Integrated Firebase for real-time data sync and secure user authentication.  
+**Technology Stack:** Android (Java), Firebase
+
+_For more projects, please visit my [GitHub profile](https://github.com/abdelrhmanshata)._
 
 ## Education
-- ITI Diploma in [Your Specialization], [Year]
-- Bachelor's Degree in [Your Major], [University Name], [Year]
+- **Diploma in Full Stack Using Python**  
+  Information Technology Institute, Cairo, Egypt (Nov 2023 - Mar 2024)
+- **Bachelor's Degree in Computer Science**  
+  Zagazig University, Egypt (Sep 2017 - Jul 2021)  
+  - Grade: Very Good with Honor  
+  - Graduation Project: **Excellent**
 
 ## Experience
-- [Job Title], [Company Name], [Year-Year]
-  - Brief description of your role and responsibilities.
-  
-- [Internship/Previous Job Title], [Company Name], [Year-Year]
-  - Brief description of your role and responsibilities.
+- **Freelance Software Developer** (2021 - Present)  
+  Focused on mobile development (Android). Proven ability to deliver high-quality solutions independently.
 
 ## Contact
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [abdelrhmanmohamedshata@gmail.com](mailto:abdelrhmanmohamedshata@gmail.com)
+- **LinkedIn:** [AbdElrhman Mohamed Shata](https://www.linkedin.com/in/abd-elrhman-mohamed-shata/)
+- **GitHub:** [AbdElrhman Shata](https://github.com/abdelrhmanshata)
