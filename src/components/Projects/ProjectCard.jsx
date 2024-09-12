@@ -7,7 +7,7 @@ import CardActionArea from "@mui/material/CardActionArea";
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
-export default function ProjectCard({project}) {
+export default function ProjectCard({ project }) {
   return (
     <Card sx={{ maxWidth: 345, height: 550 }}>
       <CardActionArea>
@@ -43,9 +43,11 @@ export default function ProjectCard({project}) {
 
           <Typography variant="body2" sx={{ color: "text.secondary" }}>
             <div className={styles.links}>
-              <a href={project.source} className={styles.link}>
-                Source Code
-              </a>
+              {project.source ? (
+                <a href={project.source} className={styles.link}>
+                  Source Code
+                </a>
+              ) : null}
             </div>
           </Typography>
         </CardContent>
