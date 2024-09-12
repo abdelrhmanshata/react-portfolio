@@ -35,11 +35,6 @@
     "imageSrc": "skills/bootstrap.png",
     "tag": "programming_languages"
   },
-  {
-    "title": "Jquery",
-    "imageSrc": "skills/jquery.png",
-    "tag": "programming_languages"
-  },
 
   {
     "title": "React",
