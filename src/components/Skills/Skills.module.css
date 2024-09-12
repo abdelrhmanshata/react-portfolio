@@ -120,6 +120,11 @@
     gap: 34px;
   }
 
+  .title {
+    font-size: 25px;
+    font-weight: 700;
+  }
+
   .skills {
     width: 100%;
     flex-direction: row;

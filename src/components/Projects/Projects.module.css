@@ -38,3 +38,10 @@
 .pagination {
   margin-top: 20px;
 }
+
+@media screen and (max-width: 830px) {
+  .title {
+    font-size: 25px;
+    font-weight: 700;
+  }
+}

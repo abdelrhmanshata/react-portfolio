@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import styles from "./Projects.module.css";
 import projects from "../../data/web_projects.json";
 import ProjectCard from "./ProjectCard";
