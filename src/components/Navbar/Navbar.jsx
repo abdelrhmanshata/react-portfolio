@@ -41,9 +41,9 @@ export const Navbar = () => {
           <li>
             <a href="#projects">Projects</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#contact">Contact</a>
-          </li>
+          </li> */}
           <li>
             <a href="https://drive.google.com/file/d/1xhBZH5AnREW2F2yOe1zOfTXP0s_RJmwJ/view?usp=sharing">
               CV
