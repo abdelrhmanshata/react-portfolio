@@ -1,5 +1,16 @@
 [
   {
+    "role": "Backend Developer",
+    "organisation": "SmartSync",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Backend Web Development.",
+      "Ability to deliver high-quality solutions."
+    ],
+    "imageSrc": "history/smartSync.png"
+  },
+  {
     "role": "Software Developer",
     "organisation": "Freelancer",
     "startDate": "Sept, 2021",
