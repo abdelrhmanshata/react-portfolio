@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .navbar {
   position: relative;
@@ -35,6 +35,23 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  position: relative;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.menuItems a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-primary);
+  transition: width 0.3s ease;
+}
+
+.menuItems a:hover::after {
+  width: 100%;
 }
 
 @media screen and (max-width: 830px) {

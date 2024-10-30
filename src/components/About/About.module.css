@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .container {
   position: relative;
@@ -61,9 +61,23 @@
 .aboutItem h3 {
   font-size: 25px;
   font-weight: 600;
+  position: relative;
+  font-size: 24px;
+  padding-bottom: 5px;
+}
+
+.aboutItem h3::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 40%;
+  height: 3px;
+  background-color: var(--color-primary);
 }
 
 .aboutItem p {
+  margin-top: 5px;
   font-size: 25px;
 }
 
@@ -105,5 +119,9 @@
   .icon {
     width: 100px;
     height: 100px;
+  }
+
+  .aboutItem h3::after {
+    width: 80%;
   }
 }

@@ -1,23 +1,42 @@
 [
   {
-    "role": "Backend Developer",
-    "organisation": "SmartSync",
-    "startDate": "Sept, 2024",
+    "role": "Full-stack Web Developer",
+    "organisation": "Intlaq",
+    "startDate": "Nov, 2024",
     "endDate": "Present",
     "experiences": [
-      "Worked on Backend Web Development.",
-      "Ability to deliver high-quality solutions."
+      "Responsive Design: Expert in building responsive and adaptive interfaces.",
+      "API Development: Proficient in creating RESTful APIs.",
+      "Database Management: Skilled in SQL/NoSQL databases, optimizing queries."
+    ],
+    "imageSrc": "history/intlaq.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "SmartSync (Internship)",
+    "startDate": "Sept, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": [
+      "Backend Development: Built secure, scalable backends.",
+      "Security: Implemented JWT for secure authentication.",
+      "APIs: Developed RESTful APIs for efficient data exchange.",
+      "Integrations: Integrated third-party APIs (OAuth, payment gateways).",
+      "Documentation: Created clear API docs with Swagger and Postman."
     ],
     "imageSrc": "history/smartSync.png"
   },
   {
-    "role": "Software Developer",
+    "role": "Mobile Developer",
     "organisation": "Freelancer",
     "startDate": "Sept, 2021",
     "endDate": "Present",
     "experiences": [
-      "Worked on Mobile Development.",
-      "Ability to deliver high-quality solutions."
+      "Designed user-friendly applications like the Daily Pills App.",
+      "Integrated TensorFlow Lite in the Plant Disease Detection App.",
+      "Proficient in Java and Firebase; developed the Garage Booking and BMSS apps.",
+      "Skilled in managing the full development cycle, from conception to deployment.",
+      "Utilized OpenCV to create the Smart Infant Incubator for monitoring sensor data.",
+      "Committed to delivering high-quality solutions."
     ],
     "imageSrc": "history/freelancer.png"
   }

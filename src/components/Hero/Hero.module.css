@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .container {
   position: relative;
@@ -37,6 +37,9 @@
   font-size: 30px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  margin-right: 50px;
+  line-height: 1.5;
+  text-align: justify;
 }
 
 .contactBtn {
@@ -53,7 +56,6 @@
 .heroImg {
   width: 50%;
   z-index: 1;
-
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -113,5 +115,22 @@
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 33px;
+  }
+}
+
+@media (max-width: 768px) {
+  .description {
+    font-size: 24px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .description {
+    font-size: 20px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    line-height: 1.4;
   }
 }

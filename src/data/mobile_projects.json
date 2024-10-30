@@ -1,5 +1,12 @@
 [
   {
+    "title": "Personal Habit Tracker App",
+    "imageSrc": "projects/PersonalHabitTrackerApp.png",
+    "description": "A user-friendly Android app for managing daily habits. This application allows users to set, track, and manage their habits, with features like habit history, reminders, and data persistence using Firebase.",
+    "skills": ["Android (Java)", "Firebase"],
+    "source": "https://github.com/abdelrhmanshata/PersonalHabitTracker"
+  },
+  {
     "title": "Garage Booking App",
     "imageSrc": "projects/Garage.jpeg",
     "description": "Developed an Android app to simplify finding and booking parking spaces. Integrated Firebase for real-time data sync and secure user authentication, providing a seamless user experience in busy areas.",

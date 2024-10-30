@@ -1,5 +1,12 @@
 [
   {
+    "title": "Employment Platform",
+    "imageSrc": "projects/EmploymentPlatform.jpeg",
+    "description": "The platform connects software developers with employers, enabling developers to create profiles, search, and apply for jobs, while employers can post jobs and manage applications.",
+    "skills": ["Django", "HTML", "CSS", "BootStrap"],
+    "source": "https://github.com/abdelrhmanshata/Employment_Platform/"
+  },
+  {
     "title": "Natours API",
     "imageSrc": "projects/NatoursAPIs.png",
     "description": "Developed a travel management API using Node.js and Express, featuring secure JWT authentication and CRUD operations for tour packages.",

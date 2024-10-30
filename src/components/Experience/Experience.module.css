@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import '../../vars.css';
 
 .container {
   color: var(--color-text);
@@ -41,7 +41,7 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 100px;
 }
 
 .historyItemDetails {
@@ -64,6 +64,8 @@
   font-size: 20px;
   list-style-type: disc;
   margin-left: 20px;
+  line-height: 1.5;
+
 }
 
 @media screen and (max-width: 830px) {
@@ -87,8 +89,10 @@
 
   .historyItemDetails ul {
     margin-top: 6px;
-    font-size: 16px;
+    font-size: 12px;
     margin-left: 10px;
+    line-height: 2;
+    
   }
 
   .education {

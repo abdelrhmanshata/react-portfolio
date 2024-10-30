@@ -5,11 +5,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm AbdElrhman.</h1>
+        <h1 className={styles.title}>Hi, I&apos;m AbdElrhman.</h1>
         <p className={styles.description}>
           Software Developer with a strong background in front-end and back-end
           development, committed to delivering reliable, easy-to-use solutions
-          and fostering teamwork. Reach out if you'd like to learn more!
+          and fostering teamwork. Reach out if you&apos;d like to learn more!
         </p>
         <a
           href="mailto:abdelrhmanmohamedshata@gmail.com"

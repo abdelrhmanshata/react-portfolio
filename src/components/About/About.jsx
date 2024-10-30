@@ -1,15 +1,15 @@
-import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
+import styles from './About.module.css';
+import { getImageUrl } from '../../utils';
 
 export const About = () => {
   return (
-    <section className={styles.container} id="about">
+    <section className={styles.container} id='about'>
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         {/* Image */}
         <img
-          src={getImageUrl("about/about.png")}
-          alt="Me sitting with a laptop"
+          src={getImageUrl('about/about.png')}
+          alt='Me sitting with a laptop'
           className={styles.aboutImage}
         />
         {/* About me */}
@@ -17,8 +17,8 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img
               className={styles.icon}
-              src={getImageUrl("about/front.png")}
-              alt="Cursor icon"
+              src={getImageUrl('about/front.png')}
+              alt='Cursor icon'
             />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
@@ -31,8 +31,8 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img
               className={styles.icon}
-              src={getImageUrl("about/backend.png")}
-              alt="Server icon"
+              src={getImageUrl('about/backend.png')}
+              alt='Server icon'
             />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
@@ -45,8 +45,8 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img
               className={styles.icon}
-              src={getImageUrl("about/mobile.png")}
-              alt="UI icon"
+              src={getImageUrl('about/mobile.png')}
+              alt='UI icon'
             />
             <div className={styles.aboutItemText}>
               <h3>Mobile Developer</h3>
