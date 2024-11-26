@@ -37,6 +37,11 @@
   },
 
   {
+    "title": "Vue.js",
+    "imageSrc": "skills/Vue.js.png",
+    "tag": "front_end"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png",
     "tag": "front_end"
