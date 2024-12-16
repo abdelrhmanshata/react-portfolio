@@ -22,12 +22,14 @@ I am a Software Developer with a solid background in both front-end and back-end
 - HTML5, CSS3, jQuery, Bootstrap
 
 ### Front-End Development
+- Vue.js
 - React.js
 - Mobile Development (Android, React Native)
 
 ### Back-End Development
 - Django, Flask, Odoo
 - Node.js
+- Nest Js
 
 ### Databases
 - SQL (PostgreSQL, MySQL)
@@ -38,7 +40,6 @@ I am a Software Developer with a solid background in both front-end and back-end
 - Docker
 - System Administration
 - Bash Shell Scripting
-- Architecture Patterns (MVC, MVT)
 
 ## Projects
 ### 1. [Natours API](https://github.com/abdelrhmanshata/Natours-APIs)
