@@ -74,7 +74,12 @@
   },
 
   {
-    "title": "Node",
+    "title": "Nest JS",
+    "imageSrc": "skills/nestJs.png",
+    "tag": "back_end"
+  },
+  {
+    "title": "Node JS",
     "imageSrc": "skills/node.png",
     "tag": "back_end"
   },
