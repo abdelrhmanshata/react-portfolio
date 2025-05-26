@@ -5,12 +5,14 @@
     "startDate": "Nov, 2024",
     "endDate": "Present",
     "experiences": [
-      "Responsive Design: Expert in building responsive and adaptive interfaces.",
-      "API Development: Proficient in creating RESTful APIs.",
-      "Database Management: Skilled in SQL/NoSQL databases, optimizing queries."
+      "Built and maintained hospital management systems using Vue 3, Vuetify, TypeScript, and Pinia.",
+      "Implemented clean architecture with modular code and scalable folder structure.",
+      "Integrated APIs using Axios with interceptors for authentication and error handling.",
+      "Developed multilingual, responsive UIs with dynamic components and infinite scroll.",
+      "Optimized SQL/NoSQL database performance and managed secure authentication flows."
     ],
     "imageSrc": "history/intlaq.png"
-  },
+  },  
   {
     "role": "Backend Developer",
     "organisation": "SmartSync (Internship)",
