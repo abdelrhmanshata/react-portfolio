@@ -5,12 +5,11 @@
     "startDate": "Nov, 2024",
     "endDate": "Present",
     "experiences": [
-      "Built and maintained hospital management systems using Vue 3, Vuetify, TypeScript, and Pinia.",
+      "Built and maintained hospital management systems using Vue 3, TypeScript, and Pinia.",
       "Implemented clean architecture with modular code and scalable folder structure.",
       "Integrated APIs using Axios with interceptors for authentication and error handling.",
-      "Developed multilingual, responsive UIs with dynamic components and infinite scroll.",
-      "Optimized SQL/NoSQL database performance and managed secure authentication flows."
-    ],
+      "Developed multilingual, responsive UIs with dynamic components and infinite scroll."
+     ],
     "imageSrc": "history/intlaq.png"
   },  
   {
