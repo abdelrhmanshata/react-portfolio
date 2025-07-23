@@ -5,6 +5,8 @@
     "startDate": "Nov, 2024",
     "endDate": "Present",
     "experiences": [
+      "Developed and maintained a MedCall system using Vue and Django, with features for doctor scheduling, patient tracking, and admin reporting.",
+      "Developing and upgrading the Ibn Sina HIS for Mansoura University using Node.js and Vue, focusing on patient management, scheduling, and system modules.",
       "Built and maintained hospital management systems using Vue 3, TypeScript, and Pinia.",
       "Implemented clean architecture with modular code and scalable folder structure.",
       "Integrated APIs using Axios with interceptors for authentication and error handling.",

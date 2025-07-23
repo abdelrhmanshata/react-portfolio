@@ -39,7 +39,7 @@ export const Navbar = () => {
             <a href='#projects'>Projects</a>
           </li>
           <li>
-            <a href='https://drive.google.com/file/d/1xhBZH5AnREW2F2yOe1zOfTXP0s_RJmwJ/view?usp=sharing'>
+            <a href='https://drive.google.com/file/d/1Pf8a4DbS9c-SLVDBbzwc78B0ttrFZkp-/view?usp=drive_link'>
               CV
             </a>
           </li>
